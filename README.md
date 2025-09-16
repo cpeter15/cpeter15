@@ -1,14 +1,14 @@
 ## Hi there 👋
 
-###Programing Languages:
+### Programing Languages:
 
 Java, Javascript, C++
 
-###Programing Languages I want to learn: 
+### Programing Languages I want to learn: 
 
 Python, Rust
 
-###Personal Projects:
+### Personal Projects:
 
 Javascript Minesweeper: https://github.com/cpeter15/Browser-Minesweeper
 
